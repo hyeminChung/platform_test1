@@ -1,0 +1,2 @@
+class PnulikelionController < ApplicationController
+end
